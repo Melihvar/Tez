@@ -1,2 +1,7 @@
 23.01.2017
 Sarım sıkılığının etkisi ile ilgili maxwell analizi yapıldı
+
+24.01.2017
+6.25 kV/mm ye göre gt30a için kullanılabilecek maximum boyuttaki layerlar hesaplandı githuba yüklendi.
+layer yerleşiminin 2D maxwell modeli oluşturuldu ,çok uzun bi optimizasyon formulü kullanılırsa maxwell takılıyor.
+wire dağılımınını gözlemlemek için dökülen trafolar kesmi gönderildi , düzgün kesilemedi , ufak trafolar ile bir daha dökülecek.
