@@ -5,3 +5,10 @@ Sarım sıkılığının etkisi ile ilgili maxwell analizi yapıldı
 6.25 kV/mm ye göre gt30a için kullanılabilecek maximum boyuttaki layerlar hesaplandı githuba yüklendi.
 layer yerleşiminin 2D maxwell modeli oluşturuldu ,çok uzun bi optimizasyon formulü kullanılırsa maxwell takılıyor.
 wire dağılımınını gözlemlemek için dökülen trafolar kesmi gönderildi , düzgün kesilemedi , ufak trafolar ile bir daha dökülecek.
+
+25.01.2017
+
+Oluşturulmuş gt30a prototip modelinin üzerinde ekran kullanımın etkisi denendi , epoksi reçinenin cinsi ve geometrisinin alan değişikliğine 
+olan etkisine dair çalışma yapıldı , rapor githuba yüklendi.
+
+Kullanılacak olan kağıt , emaye ve reçinenin Er ları edinilecek ( hassas hesaplama için gerekli)
