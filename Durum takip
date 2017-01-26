@@ -12,3 +12,11 @@ Oluşturulmuş gt30a prototip modelinin üzerinde ekran kullanımın etkisi dene
 olan etkisine dair çalışma yapıldı , rapor githuba yüklendi.
 
 Kullanılacak olan kağıt , emaye ve reçinenin Er ları edinilecek ( hassas hesaplama için gerekli)
+
+26.01.2017
+
+Mevcut Gt30a modellendi , 5bar basınclı sf6 gazı ile ile testten geçecek durumdu fakat gazın 1 bara düşmesi durumunda kalır , kV/mm kriterinin
+seçilimi gerekli. Mevcut tasarımın kadeleri ile ufak bi oynama ve ekran aklemesi ile elektrik alan yarıya düşürüldü. 30 ar adet üretilip test edilecek.
+3D ve 2D modellemeleri arasındaki hata payının belirlenmesi için çalışma yapılması lazım.
+
+*maxwellin optimizasyonu çok uzun cost functionlara el verişli değil , matlab kullanılacak
