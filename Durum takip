@@ -20,3 +20,15 @@ seçilimi gerekli. Mevcut tasarımın kadeleri ile ufak bi oynama ve ekran aklem
 3D ve 2D modellemeleri arasındaki hata payının belirlenmesi için çalışma yapılması lazım.
 
 *maxwellin optimizasyonu çok uzun cost functionlara el verişli değil , matlab kullanılacak
+
+27.01.2017
+
+5 bar Sf6 gazı basılıyor trafolara, fakat sahada zamanla 1 bara düşeceği biliniyor. 1 barda test edilse testten geçen trafo olma ihtimali yok.
+mevcut tasarımdaki sarımlar arası elektrik alan 1 bar basınçlı sf6 da da testi geçicek durumda , reçine SF6 tel arayüzü ise sıkıntılı. Sahadaki ürünlerin
+patlamama sebebi 40mm civarındaki epoksi reçineyi shortlayacak kadar deşarz olusması mumküm değil , çalışma sıcaklığı 40 derece zaten yaşlanma süreci yavaş,
+analizler yapılırken kağıtlar arası 7,5 kV mm yi geçmeyecek şekilde tasarlancak. 2d tasarım ise şu an soru işareti. 1.1*36/1,72 kV (faz nötr) de 7,5 kV yi geçmeyecek
+şekilde yapmayı planlıyorum.
+
+daha önce gazsız olarak dökülmüş 12kV tarfoların test sonuçları ve dizaynları yüklendi , programa atıp analiz ederek programdaki hesap hatası payı
+çıkartılacak.
+
