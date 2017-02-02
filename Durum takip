@@ -37,4 +37,12 @@ daha önce gazsız olarak dökülmüş 12kV tarfoların test sonuçları ve diza
 12 kV trafolar maxwellde modellendi , rapor githuba yüklendi. Seçilen kriter ve modelle yöntemi çıkan sonuçlara göre doğrulandı.
 Ekim ayında yağda test edilen trafoların alan analizleri yapıldı.
 
+0.2.02.2017.
+Kullanılan 30 mikronluk kraft kağıdının Er ı shering bridge kullanılarak hesaplandı. Er=4 çıktı . Daha önceki analizlerimde kağıt Er'ını hep 1.5alarak hesap yapmıştım.
+Analizlerin düzenlenmesi gerekli. Er ne kadar düşük ise o kadar iyi , piyasada daha düşük Er ya sahip kağıt varmı araştırılmalı.
+
+Şu ana kadarki analizlerin gerçek denemelerdede tutma sebebi bobin çaplarının hesaplanandan yüzde %50 civarında daha büyük gelmesi , Kağıttan oluşan yoğunlaşma bu şekilde 
+tolere edilmiş oluyor.
+
+Farklı kat yapılarının sebeb olduğu potluk farkına bakılmalı, sarım sıkılığının stabilitesi kontrol edilmeli
 
